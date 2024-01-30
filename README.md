@@ -1,41 +1,39 @@
-# Website
+# ✅ Mi Pagina Web en Docusaurus2
+Realizamos una Página web con el framework Docusaurus2 para mostrar todo los Manuales de Instalación de Buho.
+https://javier-santamaria.github.io/Docusaurus2024/
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+## 🚀 Lenguajes de Programación y Otros
+- Markdown
+- CSS
+- JavaScript
+- Drocosaurus (Framework)
+- Node.js
+- Visual Studio Code (Editor de Codigo)
 
-### Installation
+## 👥 Colaboradores
+- Javier Santamaria Castro
+- Juan Carlos Lozano
 
+## 🛠️ Instalación y uso de Docusaurus2
+🔧 Crear la página con los siguientes comandos:
 ```
-$ yarn
+npx create-docusaurus@latest my-website classic
 ```
-
-### Local Development
-
+🔥 Iniciar la Aplicacion por LocalHost o Network:
+Colocar este codigo en tu Terminal para ver las modificaciones y toda tu App.
 ```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+npm start
 ```
 
-Not using SSH:
+## 🛠️ Subirlo a GitHub pages
+1.  Cambiar el nombre de la Url, baseUrl, nombre del proyecto y organazidor
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+2.  Crear un repositorio y cambiar su raiz a Master, y con yarn poder subir nuestra pagina a GitHub pages.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 🎬 Vista Previa de la Pagina
+
+|![image](https://github.com/Javier-Santamaria/Docusaurus2024/assets/126354748/ff869d2d-3a07-4aa4-b5af-9a7e558f2e41)|![image](https://github.com/Javier-Santamaria/Docusaurus2024/assets/126354748/7f07eeb9-35b2-4312-a38f-39edaf11ca0c)|
+|----------------------------------|----------------------------------|
+
+|![image](https://github.com/Javier-Santamaria/Docusaurus2024/assets/126354748/f9111ed1-33f2-44cd-88fd-620243870e24)|![image](https://github.com/Javier-Santamaria/Docusaurus2024/assets/126354748/abad544b-88b4-4d7e-91e5-08a124de1a68)|
+|----------------------------------|----------------------------------|
